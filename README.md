@@ -1,6 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <img src="/matrix rain.gif">
+</p>
 
 <!--
+### Hi there 👋
+
 **Anudeep-313/Anudeep-313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![anbe sivam](247865658_3004170969845233_6808816664382720190_n.jpg)
+-->
+
