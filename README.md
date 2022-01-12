@@ -2,6 +2,11 @@
   <img src="/matrix_rain wide.gif">
 </p>
 
+<!-- social media -->
+<p align="left">
+<a href="https://twitter.com/anudeep313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anudeep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anudeep-s-654356192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anudeep" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anudeep" height="30" width="40" /></a>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
