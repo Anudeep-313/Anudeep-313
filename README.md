@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/MATRIX_RAIN_WIDE.gif">
+  <img src="/MATRIX_RAIN_REDUCED.gif">
 </p>
 
 <!-- social media -->
