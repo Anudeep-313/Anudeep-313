@@ -1,0 +1,5 @@
+{
+  "name": "Anudeep-313/Anudeep-313",
+  "version": 2,
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/$1" }]
+}
