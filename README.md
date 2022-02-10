@@ -15,12 +15,7 @@
 
 </details>
 
-<!-- spotify -->
- <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31s3cg4hotp37kbgxqeh3xjiiufu&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s3cg4hotp37kbgxqeh3xjiiufu&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
+
 
 <!--
 ### Hi there 👋
@@ -41,3 +36,10 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Anudeep-313.Anudeep-313" alt="visitor badge"/>
+  
+<!-- spotify -->
+ <p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31s3cg4hotp37kbgxqeh3xjiiufu&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s3cg4hotp37kbgxqeh3xjiiufu&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  </a>
+</p>
