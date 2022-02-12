@@ -1,3 +1,4 @@
+<!-- matrix gif -->
 <p align="center">
   <img src="/MATRIX_RAIN_REDUCED.gif">
 </p>
@@ -8,6 +9,7 @@
 <a href="https://www.linkedin.com/in/anudeep-s-654356192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anudeep" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anudeep" height="30" width="40" /></a>
 
+<!-- tools and tech used -->
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 ![anbe sivam](247865658_3004170969845233_6808816664382720190_n.jpg)
 -->
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Anudeep-313.Anudeep-313" alt="visitor badge"/>
+
   
 <!-- spotify -->
  <h3 align="left">last played on   <a href="https://open.spotify.com/user/31s3cg4hotp37kbgxqeh3xjiiufu" title="Image from freepnglogos.com"><img height="15px" width="15px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="200" alt="file spotify logo png" /></a></h3>
@@ -43,3 +45,6 @@ Here are some ideas to get you started:
  
  [![Spotify](https://novatorem-lemon-rho.vercel.app/api/spotify)](https://open.spotify.com/user/31s3cg4hotp37kbgxqeh3xjiiufu)
   
+  
+<!-- visitors badge -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Anudeep-313.Anudeep-313" alt="visitor badge"/>
