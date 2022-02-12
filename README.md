@@ -1,6 +1,6 @@
 <!-- matrix gif -->
 <p align="center">
-  <img style='?background_color=0d1117&border_color=ffffff' src="/MATRIX_RAIN_REDUCED.gif">
+  <img style='border:1px solid #ffffff' src="/MATRIX_RAIN_REDUCED.gif">
 </p>
 
 <!-- social media -->
