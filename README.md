@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Anudeep-313.Anudeep-313" alt="visitor badge"/>
   
 <!-- spotify -->
- <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31s3cg4hotp37kbgxqeh3xjiiufu&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s3cg4hotp37kbgxqeh3xjiiufu&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
+ <h3 align="left">last played on <a href="https://open.spotify.com/user/31s3cg4hotp37kbgxqeh3xjiiufu" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="200" alt="file spotify logo png" /></a></h3>
+ [![Spotify](https://spotify-recent-played-songs-app.vercel.app/api/spotify)](https://open.spotify.com/user/31s3cg4hotp37kbgxqeh3xjiiufu)
+  
