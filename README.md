@@ -8,6 +8,8 @@
 <a href="https://twitter.com/anudeep313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anudeep" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anudeep-s-654356192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anudeep" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anudeep" height="30" width="40" /></a>
+  
+<hr>
 
 <!-- tools and tech used -->
 <details>
@@ -17,7 +19,7 @@
 
 </details>
 
-
+<hr>
 
 <!--
 ### Hi there 👋
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
  
  
  [![Spotify](https://novatorem-lemon-rho.vercel.app/api/spotify)](https://open.spotify.com/user/31s3cg4hotp37kbgxqeh3xjiiufu)
-  
-  
+ 
+<hr>   
 <!-- visitors badge -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Anudeep-313.Anudeep-313" alt="visitor badge"/>
