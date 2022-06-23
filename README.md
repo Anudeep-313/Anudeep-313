@@ -11,7 +11,9 @@
   
 <hr>
 
-### 🗃️ Check out all my web dev projects here : [CLICK HERE](https://anudeep-313.github.io/projects/)
+## 🗃️ Check out all my web dev projects here : [CLICK HERE](https://anudeep-313.github.io/projects/)
+
+---
 
 <!-- tools and tech used -->
 <details>
