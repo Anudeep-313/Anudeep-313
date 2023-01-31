@@ -1,7 +1,7 @@
 <!-- matrix gif -->
 
 <p align="center">
-  <img style='border:2px solid #FFFFFF' src="https://media.giphy.com/media/IhucR9x29EgrTkcuRZ/giphy.gif" height="360" width="1080" />
+  <img style='border:2px solid #FFFFFF' src="https://media.giphy.com/media/IhucR9x29EgrTkcuRZ/giphy.gif" height="300" width="1080" />
 </p>
 
 <!-- social media -->
