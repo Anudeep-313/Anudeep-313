@@ -1,9 +1,9 @@
 <!-- matrix gif -->
 
 <p align="center">
-  <img style='border:2px solid #FFFFFF' src="https://media.giphy.com/media/IhucR9x29EgrTkcuRZ/giphy.gif" height="320" width="1200" />
+  <img style='border:2px solid #FFFFFF' src="./MATRIX_RAIN.gif" height="320" width="1200" />
 </p>
-
+<!-- https://media.giphy.com/media/IhucR9x29EgrTkcuRZ/giphy.gif -->
 <!-- social media -->
 
 <p align="center">
