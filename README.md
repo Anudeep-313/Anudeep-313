@@ -7,17 +7,15 @@
 <!-- social media -->
 
 <p align="center">
-<a href="https://twitter.com/anudeep313" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter--v1.png" alt="anudeep" height="40" width="40" /> </a>
+<a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter--v1.png" alt="anudeep" height="40" width="40" /> </a>
 <a href="https://www.linkedin.com/in/anudeep-s-654356192/" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="anudeep" height="40" width="40" /> </a>
 <a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/512/instagram-new.png" alt="anudeep" height="40" width="40" /> </a>
 </p>
  
----
 
 ## 🗃️ Check out all my web dev projects here : [CLICK HERE](https://anudeep-313.github.io/projects/)
 
----
-
+<br>
 <!-- tools and tech used -->
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -35,12 +33,11 @@
  -->
 </details>
 
-<hr>
-
+<!--
 ### Badges :
 
 [![@anudeep313's Holopin board](https://holopin.io/api/user/board?user=anudeep313)](https://holopin.io/@anudeep313)
-
+-->
 ---
   
 <!-- spotify -->
